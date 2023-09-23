@@ -1,1 +1,1 @@
-# staticWebsite
+# HTMLStaticProject
